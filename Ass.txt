@@ -1,8 +1,13 @@
-1. Portoflio - change photo
-2 4 Task - change images and videos Done
-3 Ancestor Done
-4 Flipkart Done
-4.1 Calculator Done
-5 class 9 map Done
-6 Calendar Done
-7 Stopwatch Done
+Calculator https://rishabrajput22.github.io/Geekster_Assignment/Calculator/index.html
+Flipkart https://rishabrajput22.github.io/Geekster_Assignment/Flipkart/index.html
+Portfolio https://rishabrajput22.github.io/Geekster_Assignment/Portofolio/index.html
+Stopwatch https://rishabrajput22.github.io/Geekster_Assignment/Stopwatch/index.html
+Calendar https://rishabrajput22.github.io/Geekster_Assignment/Calender/index.html
+Ancestor Tree https://rishabrajput22.github.io/Geekster_Assignment/Ancestor%20Table/index.html
+Task 1 https://rishabrajput22.github.io/Geekster_Assignment/Assignment%202/Task%201/index.html
+Task 2 https://rishabrajput22.github.io/Geekster_Assignment/Assignment%202/Task%202/index.html
+Task 3 https://rishabrajput22.github.io/Geekster_Assignment/Assignment%202/Task%203/index.html
+Task 4 https://rishabrajput22.github.io/Geekster_Assignment/Assignment%202/Task%204/index.html
+Potfolio JS https://rishabrajput22.github.io/Geekster_Assignment/Portfoloio%20Javascript/index.html
+To do List https://rishabrajput22.github.io/Geekster_Assignment/To_Do_List/index.html
+Clock https://rishabrajput22.github.io/Geekster_Assignment/Basic%20Clock/index.html
