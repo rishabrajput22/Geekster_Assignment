@@ -1,5 +1,5 @@
-# Calculator https://rishabrajput22.github.io/Geekster_Assignment/Calculator/index.html
-# Flipkart https://rishabrajput22.github.io/Geekster_Assignment/Flipkart/index.html
+ Calculator https://rishabrajput22.github.io/Geekster_Assignment/Calculator/index.html
+ Flipkart https://rishabrajput22.github.io/Geekster_Assignment/Flipkart/index.html
 # Portfolio https://rishabrajput22.github.io/Geekster_Assignment/Portofolio/index.html
 # Stopwatch https://rishabrajput22.github.io/Geekster_Assignment/Stopwatch/index.html
 # Calendar https://rishabrajput22.github.io/Geekster_Assignment/Calender/index.html
